@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-marketing-development-funds-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-marketing-development-funds",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-marketing-development-funds-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/marketing-development-funds.md",
+  "presentationPlan": "projects/crm/nuxt/marketing-development-funds.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
